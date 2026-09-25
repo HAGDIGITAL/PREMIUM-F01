@@ -2269,7 +2269,7 @@ body::before{
     right:430px;
     bottom:0;
 
-    background:url("img/FOTO\ KEDUA\ MEMPELAI.jpeg") center/cover no-repeat;
+    background:url("img/FOTO\ KEDUA\ MEMPELAI.jpeg") center 25%/cover no-repeat;
     z-index:-1;
 }
 
